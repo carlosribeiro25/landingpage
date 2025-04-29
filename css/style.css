@@ -1,0 +1,220 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#image {
+    width: 300px;
+    height: 140px;
+}
+
+.btn {
+    margin-right: 5px;
+    margin-left: 8px;
+    padding: 4px;
+    background-color: rgb(27, 27, 27);
+    color: white;
+    border-radius: 4px;    
+}
+
+.btn-nav {
+    font-size: large;
+}
+.btn:hover {
+    background-color: rgb(66, 64, 64);
+}
+button {
+    margin-top: 12px;
+    padding: 8px 10px;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+  }
+
+.btn-nav {
+    padding: 10px;
+    font-weight: 600;
+}
+section {
+    display: flex;
+
+}
+
+.container {
+    text-align: left;
+    justify-content: center;
+    width: 600px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    padding: 40px;
+}
+
+.content-section {
+    margin-top: 20px;
+}
+.carousel{
+    height: 400px;
+    width: 600px;
+    margin-top: 60px;
+    margin-left: 120px;
+    border-radius: 6px;
+}
+.container2{
+    text-align: left;
+    justify-content: center;
+    width: 600px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    padding: 40px;
+    
+}
+.satisfação {
+    display: flex;
+    margin-top: 20px;
+    gap: 15px;
+    
+}
+.qualidade{
+    width: 280px;
+    border: 1px solid #0055c4;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #e7e74f;
+    
+}
+.atendimento{
+    width: 250px;
+    border: 1px solid #0055c4;
+    gap: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #e7e74f;
+}
+
+.content3 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 8px;
+    
+}
+.recursos{
+    width: 500px;
+    margin-left: 50px;
+    margin-top: 30px;
+    height: 300px;
+    text-align: left;
+   
+}
+
+  .topicos {
+    
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 20px;
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+  }
+
+  .topicos > div {
+    border: 1px solid #0055c4;
+    padding: 15px;
+    border-radius: 8px;
+    background-color:#9cd6c8;
+    
+    
+  }
+#quality{
+    margin-bottom: 10%;
+}
+.porcentagem {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px;
+    margin-top: 10px;
+  }
+
+  .bloco {
+
+    background-color:#92f575;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border: 1px solid #0055c4;
+    width: 250px;
+    margin-left: 50px;
+    
+    
+    
+  }
+  .paragrafo {
+    margin-top: 30px;
+    margin-left: 40px;
+    text-align: left;
+    justify-content: left;
+    align-items: start;
+    width: 500px;
+
+  }
+  .content4{
+    display: flex;
+    margin-top: 40px;
+    
+  }
+ 
+  .info-container {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 30px;
+    display: flex;
+    gap: 10px;
+    
+  }
+
+  .info-bloco {
+    border: 1px solid #a5a3a3;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background-color: #dad9d9;
+    gap: 10px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    
+    
+  }
+
+  .info-bloco h3 {
+    align-items: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+    text-align: left;
+   
+  }
+
+  .info-bloco { 
+    margin: 0;
+    text-align: left;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+
+                    
+
+
+
+
+
+
+
