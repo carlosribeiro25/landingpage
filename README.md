@@ -37,6 +37,16 @@ Responsividade Mobile-First.
 🎨 Estilo limpo, moderno e com identidade visual confiável;
 
 📱 Otimizada para dispositivos móveis.
+✨ Considerações Finais
+Este projeto foi desenvolvido com o intuito de demonstrar como uma landing page simples, bem estruturada e visualmente atrativa pode contribuir para fortalecer a presença online de uma loja de materiais de construção.
+
+A combinação de HTML, CSS, Tailwind CSS e DaisyUI permite criar uma experiência moderna, rápida e responsiva, com foco em comunicação clara e conversão de visitantes em clientes.
+
+Se você gostou do projeto ou pretende utilizá-lo como base, fique à vontade para personalizar, adaptar ou contribuir!
+
+Obrigado por visitar!
+Feito com atenção aos detalhes e foco no consumidor final. 🛠️💙
+Construa experiências, não só paredes.
 
 
  Orientador: Luan Oliveira
