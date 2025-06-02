@@ -48,5 +48,7 @@ Obrigado por visitar!
 Feito com atenção aos detalhes e foco no consumidor final. 🛠️💙
 Construa experiências, não só paredes.
 
+layout do projeto (<Captura de tela 2025-06-02 145123.png>)
+
 
  Orientador: Luan Oliveira
